@@ -1,0 +1,23 @@
+{
+  "name": "cypress-course",
+  "version": "1.0.0",
+  "description": "Automated softer testing with Cypress",
+  "main": "index.js",
+  "scripts": {
+    "cy:open": "cypress open",
+    "cy:run": "cypress run"
+  },
+  "keywords": [
+    "testing",
+    "cypress",
+    "automation"
+  ],
+  "author": "Azmul",
+  "license": "ISC",
+  "dependencies": {
+    "prettier": "^2.4.1"
+  },
+  "devDependencies": {
+    "cypress": "^10.11.0"
+  }
+}
